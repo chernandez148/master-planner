@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "main": "src/index.js",
   "license": "MIT",
-  "private": true,
+  "homepage": "https://chernandez148.github.io/master-planner",
+  "private": false,
   "dependencies": {
     "@dnd-kit/core": "^6.1.0",
     "@dnd-kit/modifiers": "^7.0.0",
@@ -15,8 +16,8 @@
     "date-fns": "^4.1.0",
     "dnd-kit": "^0.0.2",
     "moment": "^2.30.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
     "react-icons": "^5.3.0",
     "react-scripts": "5.0.1",
     "react-transition-group": "^4.4.5",
@@ -57,6 +58,8 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7",
     "gh-pages": "^6.2.0"
   }
 }
