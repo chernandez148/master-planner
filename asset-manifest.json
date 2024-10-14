@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/master-planner/static/css/main.ba457e34.css",
+    "main.js": "/master-planner/static/js/main.49309bf9.js",
+    "index.html": "/master-planner/index.html",
+    "main.ba457e34.css.map": "/master-planner/static/css/main.ba457e34.css.map",
+    "main.49309bf9.js.map": "/master-planner/static/js/main.49309bf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba457e34.css",
+    "static/js/main.49309bf9.js"
+  ]
+}
